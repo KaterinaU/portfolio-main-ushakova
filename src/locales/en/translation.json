@@ -1,0 +1,31 @@
+{
+  "lang": "en",
+  "links": [
+    { "name": "About Me" },
+    { "name": "My Resumes" },
+    { "name": "My Skills" },
+    { "name": "Contact" }
+  ],
+  "aboutMe": {
+    "name": "About Me",
+    "desc": "My name is Ushakova Ekaterina. Front-end developer with over 1 year of experience in creating SPA applications, using React, Redux, TypeScript. I possess skills in code optimization, debugging, and testing. I continually expand my knowledge by exploring new technologies."
+  },
+  "myApps": {
+    "name": "My Projects",
+    "apps": [
+      { "header": "Task Manager" },
+      { "header": "Time Tracker" }
+    ]
+  },
+  "hireMe": { "name": "My Resumes" },
+  "contact": {
+    "name": "Contact Me",
+    "placeholderName": "Enter your name",
+    "placeholderEmail": "Enter your email",
+    "placeholderMessage": "Enter your message",
+    "buttonText": "Send message"
+  },
+  "mySkills": {
+    "name": "My Skills"
+  }
+}

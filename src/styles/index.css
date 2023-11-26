@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  color: #76ecfa;
+  transition: all .2s ease;
+}
+a:hover {
+  color: #24d1e5;
+}
+a:active {
+  color: #01e8ff;
+}
+
+
+p {
+  padding: 0;
+  margin: 0;
+}
